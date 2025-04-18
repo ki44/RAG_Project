@@ -1,0 +1,29 @@
+langchain
+PyMuPDF
+faiss-cpu
+langchain-community
+gradio
+pypdf
+sentence-transformers
+transformers
+accelerate
+langchain_huggingface
+bitsandbytes
+chromadb
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+
+blobfile
+tiktoken
+SentencePiece
+# flash-attn
+
+# unstructured
+# pdfminer.six
+# libmagic-dev
+# poppler-utils
+# tesseract-ocr
+# qpdf
+# libreoffice
+# pandoc 
+
+# llmsherpa
